@@ -1,4 +1,4 @@
-# Simple-Java-network-thing
+# Simple-Java-LAN-client
 
 This is a simple program that I made to learn basic networking in java. It's a lan messenger in java that uses the java prompt
 to send and receive messages.
